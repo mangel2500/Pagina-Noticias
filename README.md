@@ -27,4 +27,6 @@
   - Dentro de cada noticias en vez de poner el menu en la parte izquierda debajo de la publicidad la he colocado en la barra de arriba.
   - El boton de cargar no se encuentra en la barra de abajo sino debajo de las noticias.
 
+
+
 Aqui se puede ver el **Rawgit** del proyecto: https://rawgit.com/mangel2500/Pagina-Noticias/master/noticias.html
