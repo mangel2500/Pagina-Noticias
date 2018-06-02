@@ -12,6 +12,7 @@
   - Un arhivo RSS.
 
 ## **Especificaciones y estado**:
+
   - Realiza la maquetación del proyecto. Entrega un breve documento con el análisis y la planificación al README.md (valen fotos de          esquemas del cuaderno). **Hecho**
   - Presenta news.html con 3 noticias (ya escritas en html, no cargar con js) y almacena 6 noticias más en dos ficheros, fecha / 1.json fecha / 2.json para ser cargadas con js. **Hecho**
   - Codifica news.js en jQuery para hacer: "botón cargar más noticias" y "scroll bottom" que, al ser activado cualquiera de ellos, haga una carga y presentación de más datos (hasta dos veces 1.json, 2.json). **Hecho**
@@ -19,5 +20,11 @@
   - Codifica news1.html y news2.html, páginas que corresponden a las dos primeras noticias (últimas publicadas). Cuando hacemos clic en la noticia 1 de news.html nos va a news1.html, cuando hacemos clic en la noticia 2 de news.html nos va a news2.html (seguir no tiene sentido, esta tarea se automatiza con código de servidor). **Hecho**
   - La plantilla o página de ver una sola noticia news1.html (news2.html es idéntica) debe contener una imagen y un vídeo de youtube responsive. **Hecho**
   - Cada página debe contener las etiquetas meta (con open graph) para compartir título, descripción, imagen (grande), nombre de la aplicación y url de la página. **Hecho**
+  
+## **Cambios realizados sobre la idea inicial**:
+
+  - En el formato movil la publicidad aparece en la parte inferior en vez de la superior.
+  - Dentro de cada noticias en vez de poner el menu en la parte izquierda debajo de la publicidad la he colocado en la barra de arriba.
+  - El boton de cargar no se encuentra en la barra de abajo sino debajo de las noticias.
 
 Aqui se puede ver el **Rawgit** del proyecto: https://rawgit.com/mangel2500/Pagina-Noticias/master/noticias.html
