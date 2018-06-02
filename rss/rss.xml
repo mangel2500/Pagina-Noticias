@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+
+<channel>
+    <title>RSS</title>
+    <link>https://www.w3schools.com</link>
+    <description>PUES ESO</description>
+    <item>
+        <title>Primer Teaser Trailer de la nueva película de Dragon Ball Super 2018</title>
+        <description>En las ultimas horas Toei Animation ha publicado el primer teaser trailer de la nueva película de Dragon Ball Super 2018...</description>
+        <pubDate>Fri, 25 May 2018 16:21:52 GMT</pubDate>
+    </item>
+    <item>
+        <title>Tráiler y fecha de estreno de la segunda temporada de Westworld</title>
+        <description>La nueva entrega de la serie constará de 10 episodios como la primera y podrás empezar a verla en HBO España el 23 de abril...</description>
+         <pubDate>Thu, 24 May 2018 15:54:42 GMT</pubDate>
+    </item>
+    <item>
+        <title>'The Walking Dead': la novena temporada será más "sofisticada y ambiciosa"</title>
+        <description>El camino de The Walking Dead hacia la novena temporada promete un nuevo rumbo. Tras el final de la guerra en la pasada...</description>
+         <pubDate>Fri, 25 May 2018 12:23:12 GMT</pubDate>
+    </item>
+</channel>
+
+</rss>

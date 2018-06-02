@@ -1,0 +1,21 @@
+{
+    "noticia": [{
+            "imagen": "img/imgNot7.jpg",
+            "titulo": "Deadpool 2 no solo es mejor que la original,es más divertida",
+            "resumen": "Deadpool 2 es una película familiar. Lo sabemos porque lo dice el propio Deadpool al principio. Evidentemente, esto es ...",
+            "fecha": "05/05/2018"
+        },
+        {
+            "imagen": "img/imgNot8.jpg",
+            "titulo": "Tráiler del final de la 6ª temporada de la serie Arrow",
+            "resumen": "Se acerca el final de la sexta temporada de Arrow, y The CW ha lanzado el tráiler del último capítulo...",
+            "fecha": "29/04/2018"
+        },
+        {
+            "imagen": "img/imgNot9.jpg",
+            "titulo": "La pelicula en cines Ready Player One y la Realidad Virtual",
+            "resumen": "La realidad virtual (VR) lleva muchos años en la mente de los diseñadores y empresas de videojuegos, desde la década...",
+            "fecha": "27/04/2018"
+        }
+    ]
+}

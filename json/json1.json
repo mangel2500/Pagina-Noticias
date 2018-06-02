@@ -1,0 +1,21 @@
+{
+	"noticia": [{
+			"imagen": "img/imgNot4.jpeg",
+			"titulo": "Avengers: Infinity War es invencible en la taquilla por segunda semana",
+			"resumen": "Por tercer fin de semana consecutivo, la película de superhérores de Marvel lidera la taquilla de Estados Unidos y Canadá... ",
+			"fecha": "15/05/2018"
+		},
+		{
+			"imagen": "img/imgNot5.jpg",
+			"titulo": "La serie  de comedia Lucifer no tendra cuarta temporada en FOX",
+			"resumen": "El canal estadounidense FOX ha hecho una limpieza a fondo de su parrilla y ha decidido cancelar varias de sus series...",
+			"fecha": "13/05/2018"
+		},
+		{
+			"imagen": "img/imgNot6.jpg",
+			"titulo": "El creador de los 100 avanza como empezara la temporada",
+			"resumen": "Durante cinco temporadas, una gran parte del fandom de esta distopía postapocalíptica de The CW ha estado esperando algo...",
+			"fecha": "11/05/2018"
+		}
+	]
+}

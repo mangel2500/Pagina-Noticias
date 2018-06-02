@@ -1,0 +1,190 @@
+.col-sm-4 {
+    width: 323px;
+    height: 460px;
+    margin-top: 5%;
+    margin-left: 5%;
+    font-size: 11px;
+    top: 3%;
+    background-color: #232931;
+}
+
+h3 {
+    font-size: 15px;
+}
+
+.contenedor {
+    padding-right: 336px;
+    padding-left: 0px;
+}
+
+.navbar {
+    margin-bottom: 0px;
+}
+
+.jumbotron {
+    margin-bottom: 0px;
+}
+
+#cuerpo {
+    background-color: #393E46;
+}
+
+.d {
+    background-color: #232931;
+    height: 60px;
+    width: 100%;
+    bottom: 0px;
+    float: left;
+    text-align: center;
+}
+
+#publi2 {
+    width: 320px;
+    height: 100px;
+    position: relative;
+    margin: auto;
+    background: url(../img/publicidad2.gif);
+}
+
+.col-sm-3 {
+    text-align: center;
+    padding-top: 1%;
+    padding-bottom: 1%;
+}
+
+.col-sm-9 {
+    color: white;
+    font-size: 14px;
+}
+
+#icono {
+    width: 45px;
+    margin-top: 0.8%;
+}
+
+#noticia:hover {
+    -webkit-transform: scale(1.05);
+    -ms-transform: scale(1.05);
+    transform: scale(1.05);
+}
+
+/*-------------------------ICONOS-------------------------*/
+
+#iconotwitter {
+    position: absolute;
+    margin-left: 2%;
+    margin-top: 0.3%;
+    font-size: 2.5em;
+    color: white
+}
+
+#iconotwitter:hover {
+    -webkit-transform: scale(1.2);
+    -ms-transform: scale(1.2);
+    transform: scale(1.2);
+}
+
+#iconoinstagram {
+    position: absolute;
+    margin-left: 16%;
+    margin-top: 0.3%;
+    font-size: 2.5em;
+    color: white
+}
+
+#iconoinstagram:hover {
+    -webkit-transform: scale(1.2);
+    -ms-transform: scale(1.2);
+    transform: scale(1.2);
+}
+
+#iconofacebook {
+    position: absolute;
+    margin-left: 30%;
+    margin-top: 0.3%;
+    font-size: 2.5em;
+    color: white
+}
+
+#iconofacebook:hover {
+    -webkit-transform: scale(1.2);
+    -ms-transform: scale(1.2);
+    transform: scale(1.2);
+}
+
+/*-----------------------------------------------------------*/
+
+.comentarios {
+    text-align: right;
+    display: inline-block;
+    position: absolute;
+    right: 0px;
+}
+
+.col-6 {
+    text-align: left;
+    display: inline-block;
+}
+
+#barra {
+    background-color: #222;
+    margin-top: 100px;
+    height: 50px;
+}
+
+.img-responsive {
+    height: 200px;
+    margin: auto;
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+}
+
+#divImg {
+    text-align: center;
+    padding-top: 7%;
+    padding-bottom: 1%;
+}
+
+.row {
+    margin-right: 0px;
+    margin-left: -15px;
+}
+
+#fechaNoticia {
+    color: white;
+}
+
+#textonoticia {
+    color: white;
+}
+
+#imagen1Noticia1 {
+    margin-left: 2%;
+}
+
+#textonoticia2 {
+    color: white;
+    text-align: center;
+}
+
+h1 {
+    font-size: 30px;
+    color: white;
+    text-align: center;
+}
+
+h3 {
+    color: #4DB1BE;
+}
+
+.tituloNoticia {
+    font-size: 20px
+}
+
+#mas {
+    margin-top: 50px;
+    background-color: #232931;
+    color: white;
+    border: 1px solid white;
+}
